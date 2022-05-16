@@ -1,0 +1,74 @@
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\ProgramaSistemaDenuncia.exe.config
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\ProgramaSistemaDenuncia.exe
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\ProgramaSistemaDenuncia.pdb
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.Properties.Resources.resources
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.exe
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.pdb
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.FormRegistrar.resources
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.FormLogin.resources
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\System.Buffers.xml
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\System.Memory.xml
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.csproj.CopyComplete
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\bin\Debug\DBDenuncia.db
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.FormMenu.resources
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.Acercade.resources
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.FormTribunales.resources
+C:\Users\user\source\repos\SolSistemaDenuncia\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.FormEditarUsuario.resources
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\DBDenuncia.db
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\ProgramaSistemaDenuncia.exe.config
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\ProgramaSistemaDenuncia.exe
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\ProgramaSistemaDenuncia.pdb
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.FormAcercaDe.resources
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.FormEditarUsuario.resources
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.FormMenu.resources
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.FormRegistrar.resources
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.FormLogin.resources
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.FormTribunales.resources
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.Properties.Resources.resources
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.csproj.CopyComplete
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.exe
+C:\Users\user\Desktop\Proyecto Final\ProgramaSistemaDenuncia\obj\Debug\ProgramaSistemaDenuncia.pdb
